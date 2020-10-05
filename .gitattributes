@@ -1,0 +1,2 @@
+# A `.gitattributes` file which reclassifies `.rb` files as Python:
+*.rb linguist-language=Python
